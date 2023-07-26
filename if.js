@@ -4,37 +4,36 @@
 // 41-49, scored a, C 
 // 0-40, failed this exams
 
-//let score = 100; 
-//let student = "";
+let score = 100; 
+let student = "";
 
  
-//if (score >=70  ) {
-   // student = "A";
-   // console.log(student);
-//}
+if (score >=70  ) {
+    student = "A";
+    console.log(student);
+}
 
 //let score = 60;
 //let student = "";
 
 //if (score >=50) {
-   // student = "B";
-   // console.log(student);
- 
+  //  student = "B";
+  //  console.log(student);
   //}
 
 //let score = 49;
 //let student = "";
 
 //if (score >= 41) {
-   // student = "c";
-   // console.log(student);
+ //   student = "c";
+ //   console.log(student);
 //}
      
 
-let score = 40;
-let student = "";
+//let score = 40;
+//let student = "";
 
-if (score >= 0) {
-    student = "failed"
-    console.log(student);
-}
+//if (score >= 0) {
+  //  student = "failed"
+ //   console.log(student);
+//}
